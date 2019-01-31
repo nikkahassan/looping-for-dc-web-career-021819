@@ -1,8 +1,8 @@
 
 def using_for 
-  while using_for < 10 
+  checklist = 1..10
+for checklist
 puts  "Wingardium Leviosa"
-using_for += 1 
 end
 
 
